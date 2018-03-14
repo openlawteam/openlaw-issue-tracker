@@ -23,10 +23,12 @@ are you using? Is this related to the main site (openlaw.io) or a private instan
 please provide the name of your instance as well.
 * In an ideal world, how soon would you like this issue fixed?
 
+
+## [To suggest a feature](https://github.com/outkaj/openlaw-issue-tracker/issues/new):
+
 We want your feedback! How can OpenLaw make your lives easier? We'd like to learn about small or large
 features which you'd like to see on our platform.
 
-## [To suggest a feature](https://github.com/outkaj/openlaw-issue-tracker/issues/new):
 Please describe the following in your issue:
 * What feature you want to have
 * Why you think it would be useful
