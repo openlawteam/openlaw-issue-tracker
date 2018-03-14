@@ -8,7 +8,7 @@ If you don't already have one, the sign-up process is easy!
 [Just sign up here](https://www.github.com/join) and then refresh this page.
 
 # Instructions
-## To report a bug:
+## [To report a bug](https://github.com/outkaj/openlaw-issue-tracker/issues/new):
 
 Issues are frustrating! We understand that and want to help you as quickly as possible. To do so,
 we need some information from you.
@@ -26,7 +26,7 @@ please provide the name of your instance as well.
 We want your feedback! How can OpenLaw make your lives easier? We'd like to learn about small or large
 features which you'd like to see on our platform.
 
-## To suggest a feature:
+## [To suggest a feature](https://github.com/outkaj/openlaw-issue-tracker/issues/new):
 Please describe the following in your issue:
 * What feature you want to have
 * Why you think it would be useful
