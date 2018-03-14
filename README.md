@@ -36,4 +36,4 @@ Please describe the following in your issue:
 **Where's the rest of the code?**
    We plan to open-source components of our platform in the future. Watch this space.
 
-![Have fun!](https://i.imgur.com/aVOSkIC.gifv)
+![Have fun!](https://i1.wp.com/thedroidlawyer.com/wp-content/uploads/2018/02/productive.gif)
