@@ -26,7 +26,7 @@ please provide the name of your instance as well.
 We want your feedback! How can OpenLaw make your lives easier? We'd like to learn about small or large
 features which you'd like to see on our platform.
 
-##To suggest a feature:
+## To suggest a feature:
 Please describe the following in your issue:
 * What feature you want to have
 * Why you think it would be useful
