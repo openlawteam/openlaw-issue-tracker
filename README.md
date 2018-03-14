@@ -8,7 +8,7 @@ If you don't already have one, the sign-up process is easy!
 [Just sign up here](https://www.github.com/join) and then refresh this page.
 
 # Instructions
-##To report a bug:
+## To report a bug:
 
 Issues are frustrating! We understand that and want to help you as quickly as possible. To do so,
 we need some information from you.
@@ -33,5 +33,7 @@ Please describe the following in your issue:
 * In an ideal world, how soon would you like this feature?
 
 # FAQ
-⋅⋅* Where's the rest of the code?
+**Where's the rest of the code?**
    We plan to open-source components of our platform in the future. Watch this space.
+
+![Have fun!](https://i.imgur.com/aVOSkIC.gifv)
