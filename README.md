@@ -36,4 +36,5 @@ Please describe the following in your issue:
 **Where's the rest of the code?**
    We plan to open-source components of our platform in the future. Watch this space.
 
+# Happy templating!
 ![Have fun!](https://i1.wp.com/thedroidlawyer.com/wp-content/uploads/2018/02/productive.gif)
